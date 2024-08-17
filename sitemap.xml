@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Index Page -->
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/index.html</loc>
+    </url>
+
+    <!-- CEx1 Pages -->
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx1/CEx1Q1.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx1/CEx1Q2.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx1/CEx1Q3.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx1/CEx1Q4.html</loc>
+    </url>
+
+    <!-- CEx2 Pages -->
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx2/CEx2Q1.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx2/CEx2Q2.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx2/CEx2Q3.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx2/CEx2Q4.html</loc>
+    </url>
+
+    <!-- CEx3 Pages -->
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx3/CEx3Q1.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx3/CEx3Q2.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx3/bird.gif</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx3/cat.gif</loc>
+    </url>
+
+    <!-- CEx4 Pages -->
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx4/CEx4Q1.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx4/CEx4Q2.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx4/CEx4Q3.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx4/CEx4Q4.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx4/frame1.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx4/frame2.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx4/frame3.html</loc>
+    </url>
+
+    <!-- CEx5 Pages -->
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx5/CEx5Q1.html</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx5/life.mp4</loc>
+    </url>
+    <url>
+        <loc>https://eric15342335.github.io/ch19_html/CEx5/schsong.mp3</loc>
+    </url>
+</urlset>
