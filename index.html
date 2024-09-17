@@ -1,19 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <!-- Meta Information -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Secondary school HTML exercises">
-    <meta name="keywords" content="HTML, exercises, secondary school, eric15342335">
-    <meta name="author" content="Eric">
-    <link rel="canonical" href="https://eric15342335.github.io/ch19_html/">
-
-    <!-- Page Title -->
-    <title>Index Page - HTML Exercises</title>
+<title>Index Page - Introductory HTML Exercises</title>
+<!-- Meta Information -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Explore a collection of introductory HTML exercises learnt in secondary school.">
+<meta name="keywords" content="HTML, exercises, secondary school, Eric, eric15342335, Cheng Ho Ming, HKU, BASc(AppliedAI)">
+<meta name="author" content="eric15342335">
+<link rel="canonical" href="https://eric15342335.github.io/ch19_html/">
+<script>
+// To prevent Firefox FOUC, this must be here
+let FF_FOUC_FIX;
+</script>
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="Index Page - Introductory HTML Exercises">
+<meta property="og:description" content="Explore a collection of introductory HTML exercises learnt in secondary school.">
+<meta property="og:url" content="https://eric15342335.github.io/ch19_html/">
+<meta property="og:type" content="website">
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Index Page - Introductory HTML Exercises">
+<meta name="twitter:description" content="Explore a collection of introductory HTML exercises learnt in secondary school.">
 </head>
-
 <style>
     :root {
         --background-color: #030;
@@ -21,7 +30,6 @@
         --list-background-color: #060;
         --link-color: #ccf;
     }
-
     body {
         font-family: Arial, sans-serif;
         background-color: var(--background-color);
@@ -29,59 +37,59 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 20px;
     }
-
     h1 {
-        margin-bottom: 20px;
         text-align: center;
     }
-
     h2 {
         color: var(--text-color);
-        margin-top: 30px;
     }
-
+    p {
+        margin: 0.2em;
+    }
     .section-list-container {
         display: flex;
         justify-content: center;
         width: 100%;
         margin: 0 auto;
     }
-
     .section-list {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         list-style-type: none;
-        margin: 10px 0;
+        margin: 0.2em 0;
         padding: 0;
         max-width: 100%;
     }
-
     .section-list li {
         background-color: var(--list-background-color);
-        margin: 5px;
-        padding: 5px;
-        border-radius: 5px;
+        margin: 0.3em;
+        padding: 0.3em;
+        border-radius: 0.3em;
     }
-
     a {
         color: var(--link-color);
         text-decoration: none;
-        font-weight: 600;
+        font-weight: 500;
     }
-
     a:hover {
         text-decoration: underline;
     }
-
 </style>
 
 <body>
     <!-- Main Heading -->
     <h1>HTML Exercises Index</h1>
-
+    <!-- Source Code Link -->
+    <p>
+        View the source code on
+        <a href="https://github.com/eric15342335/ch19_html">GitHub</a>
+    </p>
+    <p>
+        Go to my main website:
+        <a href="https://eric15342335.github.io/index.html">eric15342335.github.io</a>
+    </p>
     <!-- Section for CEx1 Exercises -->
     <h2>CEx1</h2>
     <div class="section-list-container">
@@ -92,7 +100,6 @@
             <li><a href="CEx1/CEx1Q4.html">CEx1Q4</a></li>
         </ul>
     </div>
-
     <!-- Section for CEx2 Exercises -->
     <h2>CEx2</h2>
     <div class="section-list-container">
@@ -103,7 +110,6 @@
             <li><a href="CEx2/CEx2Q4.html">CEx2Q4</a></li>
         </ul>
     </div>
-
     <!-- Section for CEx3 Exercises & Media -->
     <h2>CEx3</h2>
     <div class="section-list-container">
@@ -114,7 +120,6 @@
             <li><a href="CEx3/cat.gif" aria-label="Cat GIF">Cat GIF</a></li>
         </ul>
     </div>
-
     <!-- Section for CEx4 Exercises & Frames -->
     <h2>CEx4</h2>
     <div class="section-list-container">
@@ -128,7 +133,6 @@
             <li><a href="CEx4/frame3.html">Frame3</a></li>
         </ul>
     </div>
-
     <!-- Section for CEx5 Exercises & Media -->
     <h2>CEx5</h2>
     <div class="section-list-container">
@@ -138,13 +142,5 @@
             <li><a href="CEx5/schsong.mp3" aria-label="School Song Audio">School Song Audio</a></li>
         </ul>
     </div>
-
-    <!-- Source Code Link -->
-    <p>
-        View the source code on
-        <a href="https://github.com/eric15342335/ch19_html">GitHub</a>.
-    </p>
-
 </body>
-
 </html>
